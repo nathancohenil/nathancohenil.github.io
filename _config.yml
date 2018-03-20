@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Nathan Cohen
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/37410917?s=400&u=0425913ce49b1f7e48601f8b651e039139a1f153&v=4
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: nathancohenil@gmail.com
+  facebook: nathan.cohen.330
   flickr:
-  github: barryclark/jekyll-now
+  github: nathancohenil
   instagram:
-  linkedin:
+  linkedin: nathan-cohen-0ba233157
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
