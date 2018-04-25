@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: piechar
 title: Other Test !!
 ---
 
