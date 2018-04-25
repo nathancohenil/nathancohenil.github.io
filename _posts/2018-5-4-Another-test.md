@@ -1,9 +1,5 @@
 ---
 layout: piechar
-title: Other Test !!
+title: Other teest !!
 ---
-
-A test for html interactive plotly code
-
-![_config.yml]({{ site.baseurl }}/images/piechar.html)
 
