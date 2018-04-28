@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Image test
+published: false
 ---
 
 A test for html interactive plotly code
