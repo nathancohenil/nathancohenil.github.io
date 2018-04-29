@@ -2,6 +2,8 @@
 layout: post
 title: Understanding Emmanuel Macron's words with numbers
 excerpt: Speech analytics of the French President using NLP and ( a bit of ) Machine Learning.
+images:
+  - url: /assets/Macron.jpeg
 ---
 
 After my topic modelling study on the Freakonomics Radio Podcast, I was interested to see what I could do with some data from the French
